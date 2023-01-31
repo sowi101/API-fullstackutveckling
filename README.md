@@ -1,11 +1,6 @@
 # Projekt i Fullstack-utveckling med ramverk (DT193G)
 I detta respitory finns ett API byggt i PHP med hjälp av ramverket Laravel som skapats för projektarbetet i kursen Fullstack-utveckling med ramverk på Mittuniversitetet. API:et kan användas för att hantera produkter för en handarbetesaffär. Det finns funktionalitet för CRUD, det vill säga skapa, läsa, uppdatera och radera, för produkter, kategorier och märken. För att kunna använda API:et behöver man registrera en användare. Det finns funktionalitet för att kunna registrera användare samt logga in och logga ut användare.
 
-## Länk till publicerat API
-https://garnbollen.herokuapp.com/
-
-Det går dock inte att se något under de endpoints som presenteras nedan då informationen endast kan ses vid inloggning i klientapplikation.
-
 ## Tabeller
 
 | Tabellnamn| Fält |
